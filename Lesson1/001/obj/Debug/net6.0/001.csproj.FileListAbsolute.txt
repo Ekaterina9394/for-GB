@@ -1,0 +1,15 @@
+/Users/ekaterinamytsu/Desktop/GB/001/bin/Debug/net6.0/001
+/Users/ekaterinamytsu/Desktop/GB/001/bin/Debug/net6.0/001.deps.json
+/Users/ekaterinamytsu/Desktop/GB/001/bin/Debug/net6.0/001.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/GB/001/bin/Debug/net6.0/001.dll
+/Users/ekaterinamytsu/Desktop/GB/001/bin/Debug/net6.0/001.pdb
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.dll
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/refint/001.dll
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.pdb
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/001.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/GB/001/obj/Debug/net6.0/ref/001.dll
