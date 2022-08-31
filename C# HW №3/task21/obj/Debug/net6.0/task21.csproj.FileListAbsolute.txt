@@ -1,0 +1,15 @@
+/Users/ekaterinamytsu/Desktop/for GB /task21/bin/Debug/net6.0/task21
+/Users/ekaterinamytsu/Desktop/for GB /task21/bin/Debug/net6.0/task21.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /task21/bin/Debug/net6.0/task21.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /task21/bin/Debug/net6.0/task21.dll
+/Users/ekaterinamytsu/Desktop/for GB /task21/bin/Debug/net6.0/task21.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.dll
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/refint/task21.dll
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/task21.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /task21/obj/Debug/net6.0/ref/task21.dll
