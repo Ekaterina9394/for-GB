@@ -21,3 +21,10 @@
 /Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/obj/Debug/net6.0/004(4).dll
 /Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/obj/Debug/net6.0/refint/004(4).dll
 /Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/obj/Debug/net6.0/004(4).pdb
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/bin/Debug/net6.0/004(4)
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/bin/Debug/net6.0/004(4).deps.json
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/bin/Debug/net6.0/004(4).runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/bin/Debug/net6.0/004(4).dll
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/bin/Debug/net6.0/004(4).pdb
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/obj/Debug/net6.0/004(4).genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /Lesson4/004(4)/obj/Debug/net6.0/ref/004(4).dll
