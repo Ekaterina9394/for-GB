@@ -1,0 +1,30 @@
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task29/bin/Debug/net6.0/task29
+/Users/ekaterinamytsu/Desktop/for GB /task29/bin/Debug/net6.0/task29.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /task29/bin/Debug/net6.0/task29.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /task29/bin/Debug/net6.0/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /task29/bin/Debug/net6.0/task29.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/refint/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/task29.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /task29/obj/Debug/net6.0/ref/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/bin/Debug/net6.0/task29
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/bin/Debug/net6.0/task29.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/bin/Debug/net6.0/task29.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/bin/Debug/net6.0/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/bin/Debug/net6.0/task29.pdb
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/refint/task29.dll
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.pdb
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/task29.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /C# HW №4/task29/obj/Debug/net6.0/ref/task29.dll

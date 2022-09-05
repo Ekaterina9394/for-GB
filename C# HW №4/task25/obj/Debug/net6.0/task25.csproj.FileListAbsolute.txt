@@ -1,0 +1,15 @@
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task25/bin/Debug/net6.0/task25
+/Users/ekaterinamytsu/Desktop/for GB /task25/bin/Debug/net6.0/task25.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /task25/bin/Debug/net6.0/task25.dll
+/Users/ekaterinamytsu/Desktop/for GB /task25/bin/Debug/net6.0/task25.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.dll
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/refint/task25.dll
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /task25/obj/Debug/net6.0/ref/task25.dll
