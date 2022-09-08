@@ -1,0 +1,15 @@
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /task36/bin/Debug/net6.0/task36
+/Users/ekaterinamytsu/Desktop/for GB /task36/bin/Debug/net6.0/task36.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /task36/bin/Debug/net6.0/task36.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /task36/bin/Debug/net6.0/task36.dll
+/Users/ekaterinamytsu/Desktop/for GB /task36/bin/Debug/net6.0/task36.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.dll
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/refint/task36.dll
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.pdb
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/task36.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /task36/obj/Debug/net6.0/ref/task36.dll

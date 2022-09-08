@@ -1,0 +1,5 @@
+/Users/ekaterinamytsu/Desktop/for GB /004(5)/obj/Debug/net6.0/004(5).csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /004(5)/obj/Debug/net6.0/004(5).GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /004(5)/obj/Debug/net6.0/004(5).AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /004(5)/obj/Debug/net6.0/004(5).AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /004(5)/obj/Debug/net6.0/004(5).csproj.CoreCompileInputs.cache
