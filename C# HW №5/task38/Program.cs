@@ -5,7 +5,6 @@
 
 
 
-
 double[] GetArray(int size, int minValue, int maxValue)
 {
     double[] res = new double[size];
@@ -17,23 +16,29 @@ double[] GetArray(int size, int minValue, int maxValue)
     return res;
 }
 
-double[] MinArray(double[] array)
+ double MaxNum(double[] Array)
 {
-    double min = array[0];
-
-    for (int i = 0; i < array.Length; i++)
+    double max = Array[0];
+    for (int index = 0; index < Array.Length; index++)
     {
-        num = array[i];
-
-        if (num <= min)
-            min = num;
-         
+        if (Array[index] > max)
+            max = Array[index];
     }
-        
+    return max;
+}
+
+ double MinNum(double[] Array)
+{
+    double min = Array[0];
+    for (int index = 0; index < Array.Length; index++)
+    {
+        if (Array[index] < min)
+            min = Array[index];
+    }
     return min;
 }
 
-double[] myArray = GetArray(5, -10, 10);
+double[] myArray = GetArray(5, 10, 100);
 Console.WriteLine(String.Join(" ", myArray));
-double[] result = MinArray(myArray);
-Console.WriteLine(String.Join(" ", result));
+double result = MaxNum(myArray) - MinNum(myArray);
+Console.WriteLine($"Разница -> {result:f2}");
