@@ -21,5 +21,5 @@ Console.Write("Введите k2: ");
 int k2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите b2: ");
 int b2 = Convert.ToInt32(Console.ReadLine());
-double[,] myArray = new double[,] {{k1, b1}, {k2, b2}};
+double[,] myArray = {{k1, b1}, {k2, b2}};
 Console.WriteLine(String.Join(" ", CrsPnt(myArray)));
