@@ -13,3 +13,18 @@
 /Users/ekaterinamytsu/Desktop/for GB /task43/obj/Debug/net6.0/task43.pdb
 /Users/ekaterinamytsu/Desktop/for GB /task43/obj/Debug/net6.0/task43.genruntimeconfig.cache
 /Users/ekaterinamytsu/Desktop/for GB /task43/obj/Debug/net6.0/ref/task43.dll
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/bin/Debug/net6.0/task43
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/bin/Debug/net6.0/task43.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/bin/Debug/net6.0/task43.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/bin/Debug/net6.0/task43.dll
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/bin/Debug/net6.0/task43.pdb
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.dll
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/refint/task43.dll
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.pdb
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/task43.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/Debug/net6.0/ref/task43.dll

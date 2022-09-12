@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ekaterinamytsu/Desktop/for GB /task43/task43.csproj",
+      "projectUniqueName": "/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/task43.csproj",
       "projectName": "task43",
-      "projectPath": "/Users/ekaterinamytsu/Desktop/for GB /task43/task43.csproj",
+      "projectPath": "/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/task43.csproj",
       "packagesPath": "/Users/ekaterinamytsu/.nuget/packages/",
-      "outputPath": "/Users/ekaterinamytsu/Desktop/for GB /task43/obj/",
+      "outputPath": "/Users/ekaterinamytsu/Desktop/for GB /c#/C# HW #6/task43/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ekaterinamytsu/.nuget/NuGet/NuGet.Config"
