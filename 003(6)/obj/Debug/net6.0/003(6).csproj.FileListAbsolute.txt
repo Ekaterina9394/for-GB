@@ -1,0 +1,15 @@
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/bin/Debug/net6.0/003(6)
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/bin/Debug/net6.0/003(6).deps.json
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/bin/Debug/net6.0/003(6).runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/bin/Debug/net6.0/003(6).dll
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/bin/Debug/net6.0/003(6).pdb
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).dll
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/refint/003(6).dll
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).pdb
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/003(6).genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /003(6)/obj/Debug/net6.0/ref/003(6).dll
