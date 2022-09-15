@@ -14,7 +14,6 @@ int[,] GetArray(int m, int n)
     
     for (int i = 0; i < m; i++)
        {
-
         for (int j = 0; j < n; j++)
         {
             result[i, j] = new Random().Next(0, 10);
@@ -39,15 +38,15 @@ void PrintArray(int[,] array)
 void AvgCol(int[,] array)
 {
     for (int j = 0; j < array.GetLength(1); j++)
-{
-    double avg = 0;
-    for (int i = 0; i < array.GetLength(0); i++)
     {
-        avg = (avg + array[i, j]);
+        double avg = 0;
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+            avg = (avg + array[i, j]);
+        }
+        avg = avg / array.GetLength(1);
+        Console.Write(avg + "; ");
     }
-    avg = avg / array.GetLength(1);
-    Console.Write(avg + "; ");
-}
 }
 
 Console.WriteLine("Введите значение m: ");
