@@ -1,0 +1,15 @@
+/Users/ekaterinamytsu/Desktop/for GB /test2/bin/Debug/net6.0/test2
+/Users/ekaterinamytsu/Desktop/for GB /test2/bin/Debug/net6.0/test2.deps.json
+/Users/ekaterinamytsu/Desktop/for GB /test2/bin/Debug/net6.0/test2.runtimeconfig.json
+/Users/ekaterinamytsu/Desktop/for GB /test2/bin/Debug/net6.0/test2.dll
+/Users/ekaterinamytsu/Desktop/for GB /test2/bin/Debug/net6.0/test2.pdb
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.csproj.AssemblyReference.cache
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.AssemblyInfoInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.AssemblyInfo.cs
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.csproj.CoreCompileInputs.cache
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.dll
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/refint/test2.dll
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.pdb
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/test2.genruntimeconfig.cache
+/Users/ekaterinamytsu/Desktop/for GB /test2/obj/Debug/net6.0/ref/test2.dll
