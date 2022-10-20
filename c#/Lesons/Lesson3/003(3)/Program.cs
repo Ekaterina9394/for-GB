@@ -26,3 +26,4 @@ Console.Write($"{s1:f2}");
 // int s2 = (y1 - y2) * (y1 - y2);
 // int sum = s1 + s2;
 // double result = Math.Sqrt(sum);
+
