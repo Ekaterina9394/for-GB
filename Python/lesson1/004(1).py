@@ -2,7 +2,7 @@
 # числа от -N до N
 # 3 - -1 -2 -3 0 1 2 3 
 
-from math import floor
+
 
 
 N = input("Введите число: ")
