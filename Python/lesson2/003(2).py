@@ -12,4 +12,8 @@ if len(string_1) > len(string_2):
         #print(string_1[i:i+len(string_2)])
         if string_2 == string_1[i:i+len(string_2)]:
             count +=1
-    print(count)
+    print("Количество совпадений строк:", count)
+
+
+# другой вариант решения
+# print(f"Текст 1 входит в текст 2 {string_1.count(string_2)} раз")
